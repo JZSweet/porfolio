@@ -1,0 +1,10 @@
+h1{
+    font-size: 3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: powderblue;
+    outline-style: solid;
+    outline-color: salmon;
+}
+body{
+    background-color: #f3e6ff ;
+}
